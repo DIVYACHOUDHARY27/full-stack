@@ -1,0 +1,33 @@
+div{
+  text-align: center;
+  background-color:rgb(226, 211, 213);
+  border: 2px solid black;
+  margin-left: 450px;
+  margin-right:450px;
+  height: 450px;
+  
+  padding:50px 20px 50px 20px;
+}
+
+
+input[type=text], input[type=password] {
+  width: 98%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  background:rgb(228, 228, 212);
+}
+
+.registerbtn {
+  
+  background-color:rgb(134, 131, 123);
+  font-size: 16px;
+  padding:2px
+}
+h1{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
